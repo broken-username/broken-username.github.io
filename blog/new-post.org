@@ -1,0 +1,13 @@
+#+TITLE:       First post!
+#+AUTHOR:      James Taylor
+#+EMAIL:       james@openmail.cc
+#+DATE:        2018-06-18 Mon
+#+URI:         /blog/%y/%m/%d/first-post
+#+KEYWORDS:    blog, intro
+#+TAGS:        blog, intro
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Blog Intro
+Hello everyone! So, it came to my attention that there now exists a package for Emacs which enables static website creation without ever leaving your favorite editor (if you're using one of the Emacs git tools, anyway). Being a long-time Emacs user, I jumped at the chance.
+
+And what better way to start out than by creating a blog that is all about my experiments in life? You see, I have a love of tinkering - the art of seeing the world through new eyes and using our creative abilities to understand and improve it. I tinker with a lot of things, from computers, to language, to ideas and philosophies. It's quite the journey. But a journey isn't much fun if you have no one with whom to share your story and successes. That's why I'd like to have you along for the ride. Consider yourself invited. 
