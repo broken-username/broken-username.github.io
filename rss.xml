@@ -3,10 +3,17 @@
   <channel>
     <title>The Tinkerer&#39;s Manifesto</title>
     <link>https://tinkerersmanifesto.com</link>
-    <description>static site generator</description>
-    <pubDate>Mon, 18 Jun 2018 18:01:40 MDT</pubDate>
-    <lastBuildDate>Mon, 18 Jun 2018 18:01:40 MDT</lastBuildDate>
+    <description>Exploring the possible and having a blast. :)</description>
+    <pubDate>Mon, 18 Jun 2018 18:16:51 MDT</pubDate>
+    <lastBuildDate>Mon, 18 Jun 2018 18:16:51 MDT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>It&#39;s a brand GNU day!</title>
+      <link>https://tinkerersmanifesto.com/blog/2018/06/18/its-a-brand-gnu-day</link>
+      <description><![CDATA[First post]]></description>
+      <pubDate>2018-06-18</pubDate>
+      <guid>https://tinkerersmanifesto.com/blog/2018/06/18/its-a-brand-gnu-day</guid>
+    </item>
   </channel>
 </rss>
