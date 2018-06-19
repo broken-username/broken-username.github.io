@@ -2,7 +2,7 @@
 #+AUTHOR:      James Taylor
 #+EMAIL:       james@openmail.cc
 #+DATE:        2018-06-18 Mon
-#+URI:         /the-manifesto
+#+URI:         /the manifesto/
 #+KEYWORDS:    manifesto, principles, ideas
 #+TAGS:        philosophy
 #+LANGUAGE:    en
