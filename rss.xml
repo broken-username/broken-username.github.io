@@ -4,8 +4,8 @@
     <title>The Tinkerer&#39;s Manifesto</title>
     <link>https://tinkerersmanifesto.com</link>
     <description>Exploring the possible and having a blast. :)</description>
-    <pubDate>Mon, 18 Jun 2018 20:11:27 MDT</pubDate>
-    <lastBuildDate>Mon, 18 Jun 2018 20:11:27 MDT</lastBuildDate>
+    <pubDate>Mon, 18 Jun 2018 20:17:31 MDT</pubDate>
+    <lastBuildDate>Mon, 18 Jun 2018 20:17:31 MDT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,6 +14,13 @@
       <description><![CDATA[First post]]></description>
       <pubDate>2018-06-18</pubDate>
       <guid>https://tinkerersmanifesto.com/blog intro/its-a-brand-gnu-day</guid>
+    </item>
+    <item>
+      <title>The Manifesto</title>
+      <link>https://tinkerersmanifesto.com/the-manifesto</link>
+      <description><![CDATA[The Manifesto]]></description>
+      <pubDate>2018-06-18</pubDate>
+      <guid>https://tinkerersmanifesto.com/the-manifesto</guid>
     </item>
     <item>
       <title>The Manifesto</title>
