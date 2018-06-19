@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>The Tinkerer&#39;s Manifesto</title>
+    <link>https://tinkerersmanifesto.com</link>
+    <description>Exploring the possible and having a blast. :)</description>
+    <pubDate>Mon, 18 Jun 2018 21:34:05 MDT</pubDate>
+    <lastBuildDate>Mon, 18 Jun 2018 21:34:05 MDT</lastBuildDate>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Blog Intro</title>
+      <link>https://tinkerersmanifesto.com/blog/2018/06/18/blog-intro</link>
+      <description><![CDATA[Blog Intro]]></description>
+      <pubDate>2018-06-18</pubDate>
+      <guid>https://tinkerersmanifesto.com/blog/2018/06/18/blog-intro</guid>
+    </item>
+  </channel>
+</rss>
