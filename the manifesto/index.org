@@ -1,0 +1,22 @@
+#+TITLE:       The Manifesto
+#+AUTHOR:      James Taylor
+#+EMAIL:       james@openmail.cc
+#+DATE:        2018-06-18 Mon
+#+URI:         /the-manifesto
+#+KEYWORDS:    manifesto, principles, ideas
+#+TAGS:        philosophy
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: The Manifesto
+*Concerning those principles of greatest merit to the modern tinkerer, herein explained...*
+
+* Curiosity
+
+* Adventurousness
+
+* Generosity
+
+* Modesty
+
+* Thirst for Knowledge
+
