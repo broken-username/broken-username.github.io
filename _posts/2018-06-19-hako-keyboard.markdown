@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "KBD75 review, with Hako switches"
+title:  "KBD75 overview, with Hako switches"
 date:   2018-06-19 19:23:27 -0600
 categories: jekyll blog keyboard switch
 comments: true
@@ -18,7 +18,7 @@ My eventual "first draft" layout looked like this:
 
 <br/>
 
-You'll notice that this tries to preserve the visual symmetry of ANSI while remaining an ISO layout. I think that was the best route for my preferences. While waiting for the keyboard, I prepared my layout in QMK firmware, which thankfully already had an ISO layout prepared for this keyboard model.
+You'll notice that this tries to preserve the visual symmetry of ANSI while remaining an ISO layout. I think that was the best route for my preferences. While waiting for the keyboard, I prepared my layout in QMK firmware, which thankfully already had an ISO layout prepared for this keyboard model. And the result is something that I can truly say is a joy to type on. Rock solid, attractive, and the price is much lower than I would expect for something of this quality. Oh, and my daughter loves the RGB lighting. ;)
 
 I wanted something I had never tried before for the keyfeel itself, and for that I looked to the somewhat controversial Hako line. These are the brainchildren of Input Club and manufactured by Kaihua/Kailh, also an up-and-coming company in the mechanical keyboard world. These switches are described as being something of a unity of Topre and Cherry MX Clear, which of course piques the interest of those that know and use either one. Having tasted Zealios in the past, I was one of "those" people who thought I could find familiar quality in the Hako line. Let me say this much about their similarity: if you were after yet another clone that behaves in a way that you expect, you won't find it here. The Hako switches are a complete departure from the usual tactile switch. Whether or not that is a good thing for you is a matter of taste and experience, but I have my own thoughts on the matter that make up the rest of this post.
 
