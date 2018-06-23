@@ -12,7 +12,7 @@ The tinkerer is always "on the prowl" for new ideas and projects, never knowing 
 
 ### Adventurousness
 
-The tinkerer does not favor the familiar over the novel. They do not crave novelty, but love a good chance to explore. What a tinkerer finds to be functional, they will keep, but the everlasting question in their mind will be "Is this really the only way?"
+The tinkerer does not favor the familiar over the novel. They do not crave novelty, but love a good chance to grow and develop. What a tinkerer finds to be functional, they will keep, but the everlasting question in their mind will be "Is this really the only way?"
 
 
 ### Generosity
