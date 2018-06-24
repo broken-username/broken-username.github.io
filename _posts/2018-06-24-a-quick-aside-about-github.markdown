@@ -24,3 +24,4 @@ The long and short of all this is, I think I need more information before making
 Maybe I'll book a trip on the nearest Porcine International&trade; jet.
 
 ![Stranger things have happened!](/media/images/flying-pig.jpg)
+

@@ -2,7 +2,7 @@
 layout: post
 title: "Hail Hydra!"
 date:  2018-06-23 10:47:12 -0600
-categories: emacs tips tricks packages
+tags: emacs tips tricks packages
 comments: 
 ---
 I'm a little late to the game on some of the developments in the Emacs world and don't like breaking my workflow if I don't have to. Even so, when I find a package that I find incedibly useful, adjustments are worth the effort. [Hydra](https://github.com/abo-abo/hydra) is one such package that I think all serious Emacs users will appreciate.
