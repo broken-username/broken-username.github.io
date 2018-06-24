@@ -21,9 +21,6 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tinkerersmanifesto.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  broken-username
 highlighter: rouge
-tag_page_layout: tag_page
-tag_page_dir: tag
-tag_permalink_style: pretty
 
 # Disqus Comments
 disqus:
