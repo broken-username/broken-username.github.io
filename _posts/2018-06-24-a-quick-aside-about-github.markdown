@@ -2,7 +2,7 @@
 layout: post
 title: "A Quick Aside About Github and Microsoft"
 date:  2018-06-24 13:28:30 -0600
-categories: thoughts quick philosophy
+tags: thoughts quick philosophy
 comments: 
 ---
 This month, much to the chagrin of many people, Github was purchased for a cool $7.5b in stocks by Microsoft. I was blissfully unaware of this when starting this blog using Github Pages.
