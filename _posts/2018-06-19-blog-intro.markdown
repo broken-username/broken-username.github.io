@@ -2,7 +2,7 @@
 layout: post
 title:  "Blog Intro"
 date:   2018-06-19 19:20:13 -0600 
-tags: jekyll blog new 
+tags:   intro 
 comments: false
 ---
 Hello everyone! So, it came to my attention github now makes it ridiculously fast and easy to create a static website and connect it to the outside world. Being the sort of person that I am, I jumped at the chance to do something I have always found fun in a new way.

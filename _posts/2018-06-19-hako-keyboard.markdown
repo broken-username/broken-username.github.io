@@ -2,7 +2,7 @@
 layout: post
 title:  "KBD75 overview, with Hako switches"
 date:   2018-06-19 19:23:27 -0600
-tags: keyboard switch
+tags: keyboard project
 comments: true
 ---
 
